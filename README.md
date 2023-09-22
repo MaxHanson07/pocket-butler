@@ -26,10 +26,7 @@
 
 --
 Current Build 1.0 : USER CRUD Functionality + TASK CRUD Functionality along with Calendar view are 100% operational. 
---
-
-Web Link: <https://pocketbutler.herokuapp.com/>
-​
+--​
 
 ### Technologies
 Project is created with:
@@ -49,9 +46,6 @@ Project is created with:
 
 ### Deployment
 If running locally on your machine, make sure you have Node.js installed on your machine. As well as Mysql installed and copy the schema file in the root folder to build your database. In the root folder while in your terminal run `npm start` the application should be available on your browser at localhost:8080. 
-
-If running from browser just go to the link 
-<https://pocketbutler.herokuapp.com/>
 
 
 
